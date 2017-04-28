@@ -24,7 +24,13 @@ Country: ?
 
 Planet: Earth
 
-System: Solar
+Planetary System: Solar System
+
+Interstellar Cloud: Local Interstellar Cloud
+
+Superbubble: Local Bubble
+
+Stellar Ring: Gould Belt
 
 Arm: Orion
 
@@ -37,3 +43,5 @@ Galaxy Cluster: Virgo
 Supercluster: Laniakea 
 
 Universe: Observable
+
+Universe: 
