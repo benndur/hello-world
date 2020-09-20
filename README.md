@@ -43,5 +43,3 @@ Galaxy Cluster: Virgo
 Supercluster: Laniakea 
 
 Universe: Observable
-
-Universe: 
